@@ -1,10 +1,6 @@
-# Contoh Program 2 - Kumpulan Program Sederhana R
 
-# ========================================
-# 1. HELLO WORLD DAN VARIABEL DASAR
-# ========================================
+# Pembuatan Prefix pada kolom ID
 
-# Membuat vector
 mahasiswa <- c("Andi", "Budi", "Citra")
 nilai <- c(85, 90, 78)
 
