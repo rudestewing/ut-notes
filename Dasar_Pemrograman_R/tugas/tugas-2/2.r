@@ -63,5 +63,10 @@ boxplot(
 # dari boxplot tersebut dapat dilihat median nilai mahasiswa
 # serta rentang nilai yang diperoleh mahasiswa
 
-# TODO :tulis interpretasi boxplot
-#　...
+# pada box hijau tersebut
+# batas bawah box disebut Q1 (kuartil pertama)
+# garis tengah box disebut median
+# batas atas box disebut Q3 (kuartil ketiga)
+
+# garis horizontal di bawah box disebut minimum
+# garis horizontal di atas box disebut maksimum
