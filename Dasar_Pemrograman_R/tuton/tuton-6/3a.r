@@ -1,3 +1,4 @@
+# contoh program 1
 
 workingDir <- "/mnt/c/Users/rudi.setiawan/UT/Dasar_Pemrograman_R/tuton/tuton-6"
 setwd(workingDir)

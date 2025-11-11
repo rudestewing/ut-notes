@@ -4,12 +4,13 @@ setwd(workingDir)
 
 
 filePath <- "./data2.txt"
-dataTxt <- read.table(filePath)
+dataTxt <- read.table(filePath, header=FALSE)
 
 print(dataTxt)
 
 # coba langsung masukan ke matrix
 matrixData <- as.matrix(dataTxt)
+print("matrix dari dataTxt langsung:")
 print(matrixData)
 
 
