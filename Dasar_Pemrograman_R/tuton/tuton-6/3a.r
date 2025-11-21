@@ -1,6 +1,6 @@
 # contoh program 1
 
-workingDir <- "/mnt/c/Users/rudi.setiawan/UT/Dasar_Pemrograman_R/tuton/tuton-6"
+workingDir <- "/Users/rudisetiawan/Repositories/ut-notes/Dasar_Pemrograman_R/tuton/tuton-6"
 setwd(workingDir)
 
 filePath <- "./contoh-transaksi.txt"
@@ -26,3 +26,5 @@ plot(
   ylab="Total Transaksi",
   main="Line Chart Total Transaksi per Tanggal"
 )
+# close
+dev.off()

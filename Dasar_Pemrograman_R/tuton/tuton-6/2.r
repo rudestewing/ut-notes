@@ -1,5 +1,5 @@
 
-workingDir <- "/mnt/c/Users/rudi.setiawan/UT/Dasar_Pemrograman_R/tuton/tuton-6"
+workingDir <- "/Users/rudisetiawan/Repositories/ut-notes/Dasar_Pemrograman_R/tuton/tuton-6"
 setwd(workingDir)
 
 filePath <- "./tiket_pesawat.csv"
